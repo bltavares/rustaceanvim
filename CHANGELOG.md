@@ -8,7 +8,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+### Fixed
+
+- Windows: Normalize file actions when comparing to root dir [#245]
+
 ### Added
+
 - Neotest: Expose doctests on `:Neotest summary` window
 
 ## [4.7.5] - 2024-02-20
