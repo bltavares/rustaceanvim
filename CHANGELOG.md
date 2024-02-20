@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 
 - Windows: Normalize file actions when comparing to root dir [#245]
+- Testables: Run doctests when cargo-nextest is present
 
 ### Added
 
